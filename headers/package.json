@@ -1,0 +1,17 @@
+{
+  "name": "ts2c-target-esp-gdbk-n",
+  "version": "0.0.1",
+  "description": "ESP-GDBK-N target for TS2C transpiler",
+  "main": "",
+  "types": "index",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/andrei-markeev/ts2c-target-gdbk-n.git"
+  },  
+  "keywords": [],
+  "author": "Andrei Markeev",
+  "license": "ISC"
+}
