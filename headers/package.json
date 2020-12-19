@@ -1,5 +1,5 @@
 {
-  "name": "ts2c-target-esp-gdbk-n",
+  "name": "ts2c-target-gdbk-n",
   "version": "0.0.1",
   "description": "ESP-GDBK-N target for TS2C transpiler",
   "main": "",

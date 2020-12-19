@@ -45,7 +45,7 @@ declare module "ts2c-target-gdbk-n/gb/gb.h" {
     function joypad();
 
     /** @ctype UINT8 */
-    function waitpad(/** @ctype UINT8 */ mask)
+    function waitpad(/** @ctype UINT8 */ mask): void;
     function waitpadup(): void;
     
     function enable_interrupts(): void;

@@ -14,7 +14,7 @@ int main(void) {
     display_off();
     set_bkg_data(0, 4, backgroundcharacters);
     counter = 0;
-    for (;counter <= 16;counter += 2)
+    for (;counter <= 16;(counter = counter + 2))
         set_bkg_tiles(0, counter, 20, 2, bgmap);
     SPRITES_8x8;
     set_sprite_data(0, 1, spritetiles);
